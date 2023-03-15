@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rasterdiv"]
-	path = rasterdiv
-	url = https://github.com/mattmar/rasterdiv
-	shallow = true
-	registered = true
 [submodule "dynamAedes"]
 	path = dynamAedes
 	url = https://github.com/mattmar/dynamaedes
+	shallow = true
+	registered = true
+[submodule "rasterdiv"]
+	path = rasterdiv
+	url = https://github.com/mattmar/rasterdiv
 	shallow = true
 	registered = true
