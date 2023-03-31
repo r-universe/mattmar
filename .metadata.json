@@ -1,9 +1,0 @@
-[
-  {
-    "package": "dynamAedes"
-  },
-  {
-    "package": "rasterdiv",
-    "oncran": true
-  }
-]
